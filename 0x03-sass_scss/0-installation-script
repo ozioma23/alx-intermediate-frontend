@@ -1,0 +1,10 @@
+I installed Node and npm
+ I checked Node and npm installation:
+   node -v
+   npm -v
+
+2. Installed Sass globally using npm:
+   npm install -g sass
+
+3. Verified Sass installation:
+   sass --version
